@@ -61,4 +61,4 @@ To enhance independence, the platform integrates advanced AI-powered features:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-project-name.git
+   git clone https://github.com/hc2580411/EyesForYou.git
