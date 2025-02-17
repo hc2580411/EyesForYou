@@ -56,7 +56,7 @@ To enhance independence, the platform integrates advanced AI-powered features:
 
 ## Getting Started
 ### Prerequisites
-- [List any software or tools required to run the project, e.g., Node.js, Python, etc.]
+- aiortc [python]
 
 ### Installation
 1. Clone the repository:
